@@ -1,0 +1,12 @@
+.parent{
+    display: flex;
+    flex-wrap: wrap;
+    width:100%;
+    height: 300px;
+    gap: 10px;
+}
+.images_image1,.images_image2,.images_image3,.images_image3,.images_image4,.images_image5,.images_image6,.images_image7,.images_image8,.images_image9,.images_image10,.images_image11,.images_image12,.images_image13,.images_image14,.images_image15,.images_image16,.images_image17,.images_image18,.images_image19,.images_image20,.images_image21,.images_image22,.images_image23,.images_image24{
+    border: 1px solid black;
+    justify-content: space-evenly;
+   
+}
